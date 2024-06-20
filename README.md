@@ -6,6 +6,9 @@
 <a href="https://nelsoncory.com/">
     <img src="https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Portfolio Badge"/>
   </a>
+<a href="https://www.kaggle.com/corynelson">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
 </div>
 
 
