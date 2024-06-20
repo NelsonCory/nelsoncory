@@ -9,12 +9,16 @@
 <a href="https://www.kaggle.com/corynelson">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
+<a href="https://www.linkedin.com/in/-nelsoncory/">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kaggle Badge"/>
+  </a>
 </div>
 
 
 <!--
 **NelsonCory/nelsoncory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://simpleicons.org/?q=kaggle
+https://shields.io/badges/static-badge
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
