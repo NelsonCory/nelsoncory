@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Badge"/>
   </a>
 <a href="https://nelsoncory.com/">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
