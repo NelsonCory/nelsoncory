@@ -1,5 +1,5 @@
-## Hey, I'm Cory!
-<div id="badges">
+
+<div id="badges" align="center" >
   <a href="https://nelsoncory.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Badge"/>
   </a>
@@ -13,6 +13,12 @@
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kaggle Badge"/>
   </a>
 </div>
+<div align="center">
+<h1> Hey, I'm Cory!</h1>
+</div>
+
+
+
 
 
 <!--
