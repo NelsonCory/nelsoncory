@@ -18,5 +18,5 @@
 </div>
 
 <p align="center">
-Currently working on When the Sun Sets, a hotel management game set in a rural community where the smiles are bright, the streets are quiet, and the doors stay locked while monsters claw at your doors. Currently slated for release in October, 2024. More info to come.
+Currently working on When the Sun Sets, a hotel management game set in a rural community where the smiles are bright, the streets are quiet, and the doors stay locked while monsters claw at your doors. Currently slated for release in October, 2024.
 </p>
