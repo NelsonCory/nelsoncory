@@ -18,5 +18,6 @@
 </div>
 
 <p align="center">
-Currently working on When the Sun Sets, a hotel management game set in a rural community where the smiles are bright, the streets are quiet, and the doors stay locked while monsters claw at your doors. Currently slated for release in October, 2024.
+Currently working on When the Sun Sets, a unique blend of management simulation, survival strategy, and a touch of horror. You play as the unexpected inheritor of a charming Bed & Breakfast nestled deep in the Appalachian green. But there’s a catch—this B&B isn’t just any ordinary retreat. The surrounding woods are teeming with cryptids—mysterious creatures that have lived in folklore for generations, and they’re not too keen on leaving your guests alone. Stay tuned for more information as we approach our planned release date in October!
+
 </p>
