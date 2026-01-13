@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Portfolio Badge"/>
   </a>
 <a href="https://nelsoncory.com/">
-    <img src="https://img.shields.io/badge/Blog-pink?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Blog Badge"/>
+    <img src="https://img.shields.io/badge/Blog-teal?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Blog Badge"/>
   </a>
 </div>
 <div align="center">
